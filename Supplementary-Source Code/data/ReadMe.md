@@ -1,2 +1,2 @@
 # Data
-- All involved data will be provided through cloud disk in the future.
+- All involved data will be uoloaded soon.
