@@ -1,2 +1,2 @@
 # Data
-- All involved data will be uoloaded soon.
+- All involved data will be uploaded soon.
